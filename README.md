@@ -1,1 +1,1 @@
-## Olá! Me chamo Demétrio de Freitas Oliveira 👨‍💼
+## Olá! Me chamo Demétrio de Freitas Oliveira 👋
