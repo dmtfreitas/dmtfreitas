@@ -8,11 +8,19 @@
 
 <img
     align="left"
-    alt="Linux"
-    title="Linux"
+    alt="Ubuntu"
+    title="Ubuntu"
     width="70px"
     style="padding-right: 10px"
-    src="https://devicon-website.vercel.app/api/linux/original.svg"
+    src="https://devicon-website.vercel.app/api/ubuntu/plain.svg"
+/>
+<img
+    align="left"
+    alt="Debian"
+    title="Debian"
+    width="70px"
+    style="padding-right: 10px"
+    src="https://devicon-website.vercel.app/api/debian/original.svg"
 />
 <img
     align="left"
