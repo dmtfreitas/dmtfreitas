@@ -4,5 +4,4 @@
 
 ## Analista de Dados e Desenvolvedor Full Stack 👨‍💻
 
-
-
+### Tecnologias, Linguagens e Ferramentas 💻
