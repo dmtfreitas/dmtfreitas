@@ -10,7 +10,15 @@
     align="left"
     alt="Python"
     title="Python"
-    width="30px"
-    style="padding-right: 10px"
+    width="40px"
+    style="padding-right: 20px"
     src="https://devicon-website.vercel.app/api/python/original.svg"
+/>
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="40px"
+    style="padding-right: 20px"
+    src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"
 />
