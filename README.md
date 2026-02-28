@@ -10,7 +10,7 @@
     align="left"
     alt="Linux"
     title="Linux"
-    width="30px"
+    width="70px"
     style="padding-right: 10px"
     src="https://devicon-website.vercel.app/api/linux/original.svg"
 />
@@ -18,7 +18,7 @@
     align="left"
     alt="Python"
     title="Python"
-    width="30px"
+    width="70px"
     style="padding-right: 10px"
     src="https://devicon-website.vercel.app/api/python/original.svg"
 />
@@ -26,7 +26,7 @@
     align="left"
     alt="MySQL"
     title="MySQL"
-    width="30px"
+    width="70px"
     style="padding-right: 10px"
     src="https://devicon-website.vercel.app/api/mysql/original.svg"
 />
@@ -34,7 +34,7 @@
     align="left"
     alt="PHP"
     title="PHP"
-    width="30px"
+    width="70px"
     style="padding-right: 10px"
     src="https://devicon-website.vercel.app/api/php/plain.svg"
 />
@@ -42,7 +42,7 @@
     align="left"
     alt="JavaScript"
     title="JavaScript"
-    width="30px"
+    width="70px"
     style="padding-right: 10px"
     src="https://devicon-website.vercel.app/api/javascript/plain.svg"
 />
@@ -50,7 +50,7 @@
     align="left"
     alt="HTML"
     title="HTML"
-    width="30px"
+    width="70px"
     style="padding-right: 10px"
     src="https://devicon-website.vercel.app/api/html5/original.svg"
 />
@@ -58,7 +58,7 @@
     align="left"
     alt="CSS"
     title="CSS"
-    width="30px"
+    width="70px"
     style="padding-right: 10px"
     src="https://devicon-website.vercel.app/api/css3/original.svg"
 />
