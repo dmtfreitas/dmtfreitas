@@ -5,3 +5,12 @@
 ## Analista de Dados e Desenvolvedor Full Stack 👨‍💻
 
 ### Tecnologias, Linguagens e Ferramentas 💻
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://devicon-website.vercel.app/api/python/original.svg"
+/>
