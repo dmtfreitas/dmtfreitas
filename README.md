@@ -10,15 +10,23 @@
     align="left"
     alt="Python"
     title="Python"
-    width="40px"
-    style="padding-right: 20px"
+    width="30px"
+    style="padding-right: 10px"
     src="https://devicon-website.vercel.app/api/python/original.svg"
 />
 <img
     align="left"
-    alt="Python"
-    title="Python"
-    width="40px"
-    style="padding-right: 20px"
-    src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://devicon-website.vercel.app/api/mysql/original.svg"
+/>
+<img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://devicon-website.vercel.app/api/php/plain.svg"
 />
