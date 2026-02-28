@@ -40,6 +40,14 @@
 />
 <img
     align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="70px"
+    style="padding-right: 10px"
+    src="https://devicon-website.vercel.app/api/postgresql/plain.svg"
+/>
+<img
+    align="left"
     alt="PHP"
     title="PHP"
     width="70px"
