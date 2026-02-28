@@ -8,6 +8,14 @@
 
 <img
     align="left"
+    alt="Linux"
+    title="Linux"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://devicon-website.vercel.app/api/linux/original.svg"
+/>
+<img
+    align="left"
     alt="Python"
     title="Python"
     width="30px"
@@ -29,4 +37,28 @@
     width="30px"
     style="padding-right: 10px"
     src="https://devicon-website.vercel.app/api/php/plain.svg"
+/>
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://devicon-website.vercel.app/api/javascript/plain.svg"
+/>
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://devicon-website.vercel.app/api/html5/original.svg"
+/>
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://devicon-website.vercel.app/api/css3/original.svg"
 />
